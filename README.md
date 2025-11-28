@@ -46,7 +46,7 @@
 * Apprentissage continu sur **System Design**.
 
 <div align="right">
-  Connectons-nous sur <a href="https://linkedin.com/in/votre-profil" target="_blank">LinkedIn</a>
+  Connectons-nous sur <a href="[https://linkedin.com/in/votre-profil](https://www.linkedin.com/feed/)" target="_blank">LinkedIn</a>
 </div>
 
 ---
